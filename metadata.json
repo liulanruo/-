@@ -1,0 +1,8 @@
+
+{
+  "name": "Special Interactive Christmas Tree",
+  "description": "A high-fidelity 3D Christmas tree experience with hand-gesture controls, photo spiral ribbons, and personalized greetings.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
